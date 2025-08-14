@@ -15,6 +15,8 @@ Short list of public repositories hosted in this organization (links on GitHub):
 - `bgrid` — Core project (fork of kudelink/bgrid). Engine and core components of the system. (License: AGPL-3.0)
 - `bgrid-python` — Python tools and bindings for working with Bgrid.
 - `bgrid-esp32` — Code for ESP32 devices / embedded clients in C++.
+- `bgrid-js` — Code for Javascript.
+- `bgrid-api-rest` — API rest for BGrid in NodeJS.
 - `bip39` — Implementation/resources related to BIP-39 (mnemonics).
 - `bips` — Copy/collection of Bitcoin Improvement Proposals (fork of bitcoin/bips), useful as reference.
 - `.github` — Maintenance and repository configuration files (this folder).
