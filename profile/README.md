@@ -19,7 +19,6 @@ Short list of public repositories hosted in this organization (links on GitHub):
 - `bgrid-api-rest` — API rest for BGrid in NodeJS.
 - `bip39` — Implementation/resources related to BIP-39 (mnemonics).
 - `bips` — Copy/collection of Bitcoin Improvement Proposals (fork of bitcoin/bips), useful as reference.
-- `.github` — Maintenance and repository configuration files (this folder).
 
 For the full list and updated descriptions visit: https://github.com/bgrid-maps
 
