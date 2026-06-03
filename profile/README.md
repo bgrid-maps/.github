@@ -1,7 +1,7 @@
 
 # Bgrid
 
-![image](bgrid-github-small.png)
+![image](bgrid-github.png)
 
 Welcome to the Bgrid organization on GitHub. We collect tools, libraries and resources related to the Bgrid ecosystem: embedded clients, Python libraries, crypto utilities and technical documentation.
 
